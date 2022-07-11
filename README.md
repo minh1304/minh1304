@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minh</h1>
 
-💻 I’m currently learning Computer Science at the University of Information and Technology 
+💻 I’m currently learning Computer Science at the University of Information and Technology. I have a passion for being a Web Developer Front-end in the future 
 
 
 
