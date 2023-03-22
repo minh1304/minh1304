@@ -2,7 +2,7 @@
 
 💻 Undergraduate student at the University of Information and Technology. I have a passion for being a Web Developer in the future.
 
-🌱 I’m currently learning - **React**
+🌱 I’m currently learning - **ReactJS**  **NodeJS** 
 
 
 
